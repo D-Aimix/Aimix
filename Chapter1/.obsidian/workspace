@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "d2832951859c214c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef2fd07609ceeac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra 101.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3074ee8341102539",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linear Algebra 101.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f68bbd64b3fde491",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d4257deb9db0bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5de050a5fe69d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44d6639e0f6b3a43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "021362513e3671ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e824e84356530da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6d031b1099bd38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra 101.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bef2fd07609ceeac",
+  "lastOpenFiles": [
+    "Linear Algebra 101.md",
+    "SpaceofLA.png.md"
+  ]
+}
