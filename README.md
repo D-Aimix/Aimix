@@ -1,5 +1,5 @@
 # Aimix
-- Aimix Manifestos
+## Aimix Manifestos
 - Explain like I am 10
 - Simple > complex
 - Jupyter notebook over Powerpoint
